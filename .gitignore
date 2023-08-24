@@ -1,0 +1,8 @@
+# 项目排除路径
+
+/.blaze/
+/.clwb
+/bazel-basebazelproject
+/bazel-bin
+/bazel-out
+/bazel-testlogs
